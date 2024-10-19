@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "87 Advance exercise Two dimensional calculation/1.0.0": {
+        "runtime": {
+          "87 Advance exercise Two dimensional calculation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "87 Advance exercise Two dimensional calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

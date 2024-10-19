@@ -1,0 +1,28 @@
+C:\Users\PBU3845\source\repos\102\102\bin\Debug\net8.0\102.exe
+C:\Users\PBU3845\source\repos\102\102\bin\Debug\net8.0\102.deps.json
+C:\Users\PBU3845\source\repos\102\102\bin\Debug\net8.0\102.runtimeconfig.json
+C:\Users\PBU3845\source\repos\102\102\bin\Debug\net8.0\102.dll
+C:\Users\PBU3845\source\repos\102\102\bin\Debug\net8.0\102.pdb
+C:\Users\PBU3845\source\repos\102\102\obj\Debug\net8.0\102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBU3845\source\repos\102\102\obj\Debug\net8.0\102.AssemblyInfoInputs.cache
+C:\Users\PBU3845\source\repos\102\102\obj\Debug\net8.0\102.AssemblyInfo.cs
+C:\Users\PBU3845\source\repos\102\102\obj\Debug\net8.0\102.csproj.CoreCompileInputs.cache
+C:\Users\PBU3845\source\repos\102\102\obj\Debug\net8.0\102.dll
+C:\Users\PBU3845\source\repos\102\102\obj\Debug\net8.0\refint\102.dll
+C:\Users\PBU3845\source\repos\102\102\obj\Debug\net8.0\102.pdb
+C:\Users\PBU3845\source\repos\102\102\obj\Debug\net8.0\102.genruntimeconfig.cache
+C:\Users\PBU3845\source\repos\102\102\obj\Debug\net8.0\ref\102.dll
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\bin\Debug\net8.0\102.exe
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\bin\Debug\net8.0\102.deps.json
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\bin\Debug\net8.0\102.runtimeconfig.json
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\bin\Debug\net8.0\102.dll
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\bin\Debug\net8.0\102.pdb
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\obj\Debug\net8.0\102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\obj\Debug\net8.0\102.AssemblyInfoInputs.cache
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\obj\Debug\net8.0\102.AssemblyInfo.cs
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\obj\Debug\net8.0\102.csproj.CoreCompileInputs.cache
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\obj\Debug\net8.0\102.dll
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\obj\Debug\net8.0\refint\102.dll
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\obj\Debug\net8.0\102.pdb
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\obj\Debug\net8.0\102.genruntimeconfig.cache
+C:\Users\PBU3845\source\repos\102 Classes, Variables, Constructors, Methods\102\obj\Debug\net8.0\ref\102.dll

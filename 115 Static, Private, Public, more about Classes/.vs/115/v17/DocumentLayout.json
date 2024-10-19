@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PBU3845\\source\\repos\\115 Static, Private, Public, more about Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E77E951-4C1F-4C9F-A62D-9AFFE43DF5EF}|115\\115.csproj|c:\\users\\pbu3845\\source\\repos\\115 static, private, public, more about classes\\115\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E77E951-4C1F-4C9F-A62D-9AFFE43DF5EF}|115\\115.csproj|solutionrelative:115\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E77E951-4C1F-4C9F-A62D-9AFFE43DF5EF}|115\\115.csproj|c:\\users\\pbu3845\\source\\repos\\115 static, private, public, more about classes\\115\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E77E951-4C1F-4C9F-A62D-9AFFE43DF5EF}|115\\115.csproj|solutionrelative:115\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\PBU3845\\source\\repos\\115 Static, Private, Public, more about Classes\\115\\Rectangle.cs",
+              "RelativeDocumentMoniker": "115\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\PBU3845\\source\\repos\\115 Static, Private, Public, more about Classes\\115\\Rectangle.cs",
+              "RelativeToolTip": "115\\Rectangle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:10:11.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PBU3845\\source\\repos\\115 Static, Private, Public, more about Classes\\115\\Program.cs",
+              "RelativeDocumentMoniker": "115\\Program.cs",
+              "ToolTip": "C:\\Users\\PBU3845\\source\\repos\\115 Static, Private, Public, more about Classes\\115\\Program.cs",
+              "RelativeToolTip": "115\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:02:21.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

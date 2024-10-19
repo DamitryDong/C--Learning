@@ -1,0 +1,14 @@
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\bin\Debug\net8.0\78 Text Adventure Game.exe
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\bin\Debug\net8.0\78 Text Adventure Game.deps.json
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\bin\Debug\net8.0\78 Text Adventure Game.runtimeconfig.json
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\bin\Debug\net8.0\78 Text Adventure Game.dll
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\bin\Debug\net8.0\78 Text Adventure Game.pdb
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\obj\Debug\net8.0\78 Text Adventure Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\obj\Debug\net8.0\78 Text Adventure Game.AssemblyInfoInputs.cache
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\obj\Debug\net8.0\78 Text Adventure Game.AssemblyInfo.cs
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\obj\Debug\net8.0\78 Text Adventure Game.csproj.CoreCompileInputs.cache
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\obj\Debug\net8.0\78 Text Adventure Game.dll
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\obj\Debug\net8.0\refint\78 Text Adventure Game.dll
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\obj\Debug\net8.0\78 Text Adventure Game.pdb
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\obj\Debug\net8.0\78 Text Adventure Game.genruntimeconfig.cache
+C:\Users\PBU3845\source\repos\78 Text Adventure Game\78 Text Adventure Game\obj\Debug\net8.0\ref\78 Text Adventure Game.dll

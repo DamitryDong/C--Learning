@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PBU3845\\source\\repos\\Udemy Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE016C8-A690-4604-A3A5-2461060BF478}|Udemy Course\\Udemy Course.csproj|c:\\users\\pbu3845\\onedrive - hca healthcare\\desktop\\c# journey\\1 - 25 intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE016C8-A690-4604-A3A5-2461060BF478}|Udemy Course\\Udemy Course.csproj|c:\\users\\pbu3845\\source\\repos\\udemy course\\udemy course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE016C8-A690-4604-A3A5-2461060BF478}|Udemy Course\\Udemy Course.csproj|solutionrelative:udemy course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1 - 25 intro.cs",
+              "DocumentMoniker": "C:\\Users\\PBU3845\\OneDrive - HCA Healthcare\\Desktop\\C# Journey\\1 - 25 intro.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - HCA Healthcare\\Desktop\\C# Journey\\1 - 25 intro.cs",
+              "ToolTip": "C:\\Users\\PBU3845\\OneDrive - HCA Healthcare\\Desktop\\C# Journey\\1 - 25 intro.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - HCA Healthcare\\Desktop\\C# Journey\\1 - 25 intro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:20:56.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PBU3845\\source\\repos\\Udemy Course\\Udemy Course\\Program.cs",
+              "RelativeDocumentMoniker": "Udemy Course\\Program.cs",
+              "ToolTip": "C:\\Users\\PBU3845\\source\\repos\\Udemy Course\\Udemy Course\\Program.cs",
+              "RelativeToolTip": "Udemy Course\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:34:37.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\PBU3845\source\repos\82\82\bin\Debug\net8.0\82.exe
+C:\Users\PBU3845\source\repos\82\82\bin\Debug\net8.0\82.deps.json
+C:\Users\PBU3845\source\repos\82\82\bin\Debug\net8.0\82.runtimeconfig.json
+C:\Users\PBU3845\source\repos\82\82\bin\Debug\net8.0\82.dll
+C:\Users\PBU3845\source\repos\82\82\bin\Debug\net8.0\82.pdb
+C:\Users\PBU3845\source\repos\82\82\obj\Debug\net8.0\82.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBU3845\source\repos\82\82\obj\Debug\net8.0\82.AssemblyInfoInputs.cache
+C:\Users\PBU3845\source\repos\82\82\obj\Debug\net8.0\82.AssemblyInfo.cs
+C:\Users\PBU3845\source\repos\82\82\obj\Debug\net8.0\82.csproj.CoreCompileInputs.cache
+C:\Users\PBU3845\source\repos\82\82\obj\Debug\net8.0\82.dll
+C:\Users\PBU3845\source\repos\82\82\obj\Debug\net8.0\refint\82.dll
+C:\Users\PBU3845\source\repos\82\82\obj\Debug\net8.0\82.pdb
+C:\Users\PBU3845\source\repos\82\82\obj\Debug\net8.0\82.genruntimeconfig.cache
+C:\Users\PBU3845\source\repos\82\82\obj\Debug\net8.0\ref\82.dll

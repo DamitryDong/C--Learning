@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PBU3845\\source\\repos\\65\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{021BB2A6-791F-47DE-ACF5-49027B6E1684}|65\\65.csproj|c:\\users\\pbu3845\\source\\repos\\65\\65\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021BB2A6-791F-47DE-ACF5-49027B6E1684}|65\\65.csproj|solutionrelative:65\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PBU3845\\source\\repos\\65\\65\\Program.cs",
+              "RelativeDocumentMoniker": "65\\Program.cs",
+              "ToolTip": "C:\\Users\\PBU3845\\source\\repos\\65\\65\\Program.cs",
+              "RelativeToolTip": "65\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:30:41.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

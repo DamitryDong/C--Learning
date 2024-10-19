@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PBU3845\\source\\repos\\35\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEC9BB8-A3C5-4F11-A65D-306A1DF0B2C0}|35\\35.csproj|c:\\users\\pbu3845\\source\\repos\\35\\35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEC9BB8-A3C5-4F11-A65D-306A1DF0B2C0}|35\\35.csproj|solutionrelative:35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEC9BB8-A3C5-4F11-A65D-306A1DF0B2C0}|35\\35.csproj|c:\\users\\pbu3845\\source\\repos\\35\\35\\35.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CEC9BB8-A3C5-4F11-A65D-306A1DF0B2C0}|35\\35.csproj|solutionrelative:35\\35.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "35.csproj",
+              "DocumentMoniker": "C:\\Users\\PBU3845\\source\\repos\\35\\35\\35.csproj",
+              "RelativeDocumentMoniker": "35\\35.csproj",
+              "ToolTip": "C:\\Users\\PBU3845\\source\\repos\\35\\35\\35.csproj",
+              "RelativeToolTip": "35\\35.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T14:30:25.441Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PBU3845\\source\\repos\\35\\35\\Program.cs",
+              "RelativeDocumentMoniker": "35\\Program.cs",
+              "ToolTip": "C:\\Users\\PBU3845\\source\\repos\\35\\35\\Program.cs",
+              "RelativeToolTip": "35\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:18:10.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

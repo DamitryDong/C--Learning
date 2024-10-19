@@ -1,0 +1,14 @@
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\bin\Debug\net8.0\Looping through Shaleens jobs.exe
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\bin\Debug\net8.0\Looping through Shaleens jobs.deps.json
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\bin\Debug\net8.0\Looping through Shaleens jobs.runtimeconfig.json
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\bin\Debug\net8.0\Looping through Shaleens jobs.dll
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\bin\Debug\net8.0\Looping through Shaleens jobs.pdb
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\obj\Debug\net8.0\Looping through Shaleens jobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\obj\Debug\net8.0\Looping through Shaleens jobs.AssemblyInfoInputs.cache
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\obj\Debug\net8.0\Looping through Shaleens jobs.AssemblyInfo.cs
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\obj\Debug\net8.0\Looping through Shaleens jobs.csproj.CoreCompileInputs.cache
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\obj\Debug\net8.0\Looping through Shaleens jobs.dll
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\obj\Debug\net8.0\refint\Looping through Shaleens jobs.dll
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\obj\Debug\net8.0\Looping through Shaleens jobs.pdb
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\obj\Debug\net8.0\Looping through Shaleens jobs.genruntimeconfig.cache
+C:\Users\PBU3845\source\repos\Looping through Shaleens jobs\Looping through Shaleens jobs\obj\Debug\net8.0\ref\Looping through Shaleens jobs.dll

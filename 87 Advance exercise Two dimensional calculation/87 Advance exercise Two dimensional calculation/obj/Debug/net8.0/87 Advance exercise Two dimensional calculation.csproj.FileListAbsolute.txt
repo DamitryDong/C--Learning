@@ -1,0 +1,14 @@
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\bin\Debug\net8.0\87 Advance exercise Two dimensional calculation.exe
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\bin\Debug\net8.0\87 Advance exercise Two dimensional calculation.deps.json
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\bin\Debug\net8.0\87 Advance exercise Two dimensional calculation.runtimeconfig.json
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\bin\Debug\net8.0\87 Advance exercise Two dimensional calculation.dll
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\bin\Debug\net8.0\87 Advance exercise Two dimensional calculation.pdb
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\obj\Debug\net8.0\87 Advance exercise Two dimensional calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\obj\Debug\net8.0\87 Advance exercise Two dimensional calculation.AssemblyInfoInputs.cache
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\obj\Debug\net8.0\87 Advance exercise Two dimensional calculation.AssemblyInfo.cs
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\obj\Debug\net8.0\87 Advance exercise Two dimensional calculation.csproj.CoreCompileInputs.cache
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\obj\Debug\net8.0\87 Advance exercise Two dimensional calculation.dll
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\obj\Debug\net8.0\refint\87 Advance exercise Two dimensional calculation.dll
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\obj\Debug\net8.0\87 Advance exercise Two dimensional calculation.pdb
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\obj\Debug\net8.0\87 Advance exercise Two dimensional calculation.genruntimeconfig.cache
+C:\Users\PBU3845\source\repos\87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation\obj\Debug\net8.0\ref\87 Advance exercise Two dimensional calculation.dll

@@ -1,0 +1,14 @@
+C:\Users\PBU3845\source\repos\88\88\obj\Debug\net8.0\88.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBU3845\source\repos\88\88\obj\Debug\net8.0\88.AssemblyInfoInputs.cache
+C:\Users\PBU3845\source\repos\88\88\obj\Debug\net8.0\88.AssemblyInfo.cs
+C:\Users\PBU3845\source\repos\88\88\obj\Debug\net8.0\88.csproj.CoreCompileInputs.cache
+C:\Users\PBU3845\source\repos\88\88\bin\Debug\net8.0\88.exe
+C:\Users\PBU3845\source\repos\88\88\bin\Debug\net8.0\88.deps.json
+C:\Users\PBU3845\source\repos\88\88\bin\Debug\net8.0\88.runtimeconfig.json
+C:\Users\PBU3845\source\repos\88\88\bin\Debug\net8.0\88.dll
+C:\Users\PBU3845\source\repos\88\88\bin\Debug\net8.0\88.pdb
+C:\Users\PBU3845\source\repos\88\88\obj\Debug\net8.0\88.dll
+C:\Users\PBU3845\source\repos\88\88\obj\Debug\net8.0\refint\88.dll
+C:\Users\PBU3845\source\repos\88\88\obj\Debug\net8.0\88.pdb
+C:\Users\PBU3845\source\repos\88\88\obj\Debug\net8.0\88.genruntimeconfig.cache
+C:\Users\PBU3845\source\repos\88\88\obj\Debug\net8.0\ref\88.dll

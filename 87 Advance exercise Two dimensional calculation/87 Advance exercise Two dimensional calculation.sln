@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "87 Advance exercise Two dimensional calculation", "87 Advance exercise Two dimensional calculation\87 Advance exercise Two dimensional calculation.csproj", "{C3A9DA08-DE52-4A2D-ACD6-83F83649414A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A9DA08-DE52-4A2D-ACD6-83F83649414A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A9DA08-DE52-4A2D-ACD6-83F83649414A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A9DA08-DE52-4A2D-ACD6-83F83649414A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A9DA08-DE52-4A2D-ACD6-83F83649414A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DF898EE-59CB-4DDB-99AF-73EA3D1126CA}
+	EndGlobalSection
+EndGlobal

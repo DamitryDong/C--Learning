@@ -1,0 +1,28 @@
+C:\Users\PBU3845\source\repos\96\96\obj\Debug\net8.0\96.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBU3845\source\repos\96\96\obj\Debug\net8.0\96.AssemblyInfoInputs.cache
+C:\Users\PBU3845\source\repos\96\96\obj\Debug\net8.0\96.AssemblyInfo.cs
+C:\Users\PBU3845\source\repos\96\96\obj\Debug\net8.0\96.csproj.CoreCompileInputs.cache
+C:\Users\PBU3845\source\repos\96\96\bin\Debug\net8.0\96.exe
+C:\Users\PBU3845\source\repos\96\96\bin\Debug\net8.0\96.deps.json
+C:\Users\PBU3845\source\repos\96\96\bin\Debug\net8.0\96.runtimeconfig.json
+C:\Users\PBU3845\source\repos\96\96\bin\Debug\net8.0\96.dll
+C:\Users\PBU3845\source\repos\96\96\bin\Debug\net8.0\96.pdb
+C:\Users\PBU3845\source\repos\96\96\obj\Debug\net8.0\96.dll
+C:\Users\PBU3845\source\repos\96\96\obj\Debug\net8.0\refint\96.dll
+C:\Users\PBU3845\source\repos\96\96\obj\Debug\net8.0\96.pdb
+C:\Users\PBU3845\source\repos\96\96\obj\Debug\net8.0\96.genruntimeconfig.cache
+C:\Users\PBU3845\source\repos\96\96\obj\Debug\net8.0\ref\96.dll
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\bin\Debug\net8.0\96.exe
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\bin\Debug\net8.0\96.deps.json
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\bin\Debug\net8.0\96.runtimeconfig.json
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\bin\Debug\net8.0\96.dll
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\bin\Debug\net8.0\96.pdb
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\obj\Debug\net8.0\96.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\obj\Debug\net8.0\96.AssemblyInfoInputs.cache
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\obj\Debug\net8.0\96.AssemblyInfo.cs
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\obj\Debug\net8.0\96.csproj.CoreCompileInputs.cache
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\obj\Debug\net8.0\96.dll
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\obj\Debug\net8.0\refint\96.dll
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\obj\Debug\net8.0\96.pdb
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\obj\Debug\net8.0\96.genruntimeconfig.cache
+C:\Users\PBU3845\source\repos\96 Weather Simulator Using Methods\96\obj\Debug\net8.0\ref\96.dll
